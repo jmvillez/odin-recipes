@@ -1,0 +1,25 @@
+header {
+    background-image: url('images/header.jpg');
+    height: 300px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+#page-header {
+    font-family: Arial, sans-serif;
+    font-size: 120px;
+    text-align: left;
+    padding: 100px;
+    color: rgb(0, 0, 0);
+
+}
+
+main {
+    background-color: rgb(209, 255, 255);
+}
+
+.home-link {
+    text-decoration: none;
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+}
